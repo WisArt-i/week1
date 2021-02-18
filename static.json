@@ -1,0 +1,8 @@
+{
+  "heders": {
+    "/*": {
+      "X-Author": "wisart_i",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
